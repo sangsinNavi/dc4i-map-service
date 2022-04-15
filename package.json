@@ -1,0 +1,17 @@
+{
+  "name": "tiles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.3",
+    "helmet": "^5.0.2",
+    "node-mbtiles": "^1.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "license": "ISC"
+}

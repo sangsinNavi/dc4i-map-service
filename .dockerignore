@@ -1,0 +1,15 @@
+node_modules
+npm-debug.log
+mocha.json
+clover.xml
+Dockerfile
+Dockerfile.base
+build.sh
+build.base.sh
+build.push.sh
+**/.git
+**/*.map
+**/.DS_Store
+**/.gitignore
+tiles
+.env
